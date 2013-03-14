@@ -1,4 +1,3 @@
-apexq
-=====
+All information is in the wiki: 
 
-Documentation and general information
+https://github.com/TeamApexQ/apexq/wiki
